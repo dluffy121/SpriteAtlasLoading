@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PixelButtons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 418dc263cfbdb4b429ab33559545be26, type: 3}
+    bindAsDefault: 0
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1332073708585426181, guid: 418dc263cfbdb4b429ab33559545be26, type: 3}
+  - {fileID: 6455777940496148891, guid: 418dc263cfbdb4b429ab33559545be26, type: 3}
+  - {fileID: -45530721062552620, guid: 418dc263cfbdb4b429ab33559545be26, type: 3}
+  - {fileID: 3152187639724184555, guid: 418dc263cfbdb4b429ab33559545be26, type: 3}
+  - {fileID: 7624146326954390036, guid: 418dc263cfbdb4b429ab33559545be26, type: 3}
+  - {fileID: 1954306339983728480, guid: 418dc263cfbdb4b429ab33559545be26, type: 3}
+  - {fileID: -6793383426514680930, guid: 418dc263cfbdb4b429ab33559545be26, type: 3}
+  - {fileID: 6667928131151135345, guid: 418dc263cfbdb4b429ab33559545be26, type: 3}
+  - {fileID: 1460023092192308705, guid: 418dc263cfbdb4b429ab33559545be26, type: 3}
+  - {fileID: 6923385208687083755, guid: 418dc263cfbdb4b429ab33559545be26, type: 3}
+  - {fileID: -378318516567255381, guid: 418dc263cfbdb4b429ab33559545be26, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - FREE PIXEL ART BUTTONS_8
+  - FREE PIXEL ART BUTTONS_9
+  - FREE PIXEL ART BUTTONS_4
+  - FREE PIXEL ART BUTTONS_5
+  - FREE PIXEL ART BUTTONS_6
+  - FREE PIXEL ART BUTTONS_7
+  - FREE PIXEL ART BUTTONS_0
+  - FREE PIXEL ART BUTTONS_1
+  - FREE PIXEL ART BUTTONS_2
+  - FREE PIXEL ART BUTTONS_3
+  - FREE PIXEL ART BUTTONS_10
+  m_RenderDataMap: {}
+  m_Tag: PixelButtons
+  m_IsVariant: 0
